@@ -47,7 +47,7 @@ This application simulates a real-world restaurant billing workflow. It allows c
 1.  **Clone the Repository:**
 
     ```bash
-    git clone [https://github.com/cryptic-kumar/Syntecxhub_Restaurant_Billing_System.git](https://github.com/cryptic-kumar/Syntecxhub_Restaurant_Billing_System.git)
+    git clone https://github.com/cryptic-kumar/Syntecxhub_Restaurant_Billing_System.git
     ```
 
 2.  **Navigate to the folder:**
