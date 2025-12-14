@@ -24,14 +24,14 @@ This application simulates a real-world restaurant billing workflow. It allows c
 - **Generate Bill:** Produces a detailed receipt showing:
   - Itemized breakdown (Name, Qty, Price)
   - Subtotal
-  - [cite_start]GST (5%) [cite: 53]
+  - GST (5%) [cite: 53]
   - Grand Total
 
 ## 🛠️ Tech Stack
 
 - **Language:** Java (JDK 8 or higher)
 - **Concepts Used:**
-  - [cite_start]Object-Oriented Programming (Classes & Objects) [cite: 55]
+  - Object-Oriented Programming (Classes & Objects)
   - Collections Framework (`ArrayList`)
   - Input/Output (`Scanner` class)
   - Control Flow (Loops, Switch Cases)
@@ -47,10 +47,8 @@ This application simulates a real-world restaurant billing workflow. It allows c
 1.  **Clone the Repository:**
 
     ```bash
-    git clone [https://github.com/AdityaKumarSah/Syntecxhub_Restaurant_Billing_System.git](https://github.com/AdityaKumarSah/Syntecxhub_Restaurant_Billing_System.git)
+    git clone [https://github.com/cryptic-kumar/Syntecxhub_Restaurant_Billing_System.git](https://github.com/cryptic-kumar/Syntecxhub_Restaurant_Billing_System.git)
     ```
-
-    _(Note: Replace `AdityaKumarSah` with your actual GitHub username)_
 
 2.  **Navigate to the folder:**
 
@@ -84,4 +82,4 @@ This application simulates a real-world restaurant billing workflow. It allows c
 
 ---
 
-[cite_start]_This project was developed as part of the Syntecxhub Internship Program._ [cite: 5]
+_This project was developed as part of the Syntecxhub Internship Program._
